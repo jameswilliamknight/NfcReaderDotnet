@@ -19,7 +19,7 @@ try
 {
     // using declaration is correct here
     using var spiDevice = SpiDevice.Create(connectionSettings);
-    using var nfcReader = new Pn532(spiDevice, -1, null, true, false);
+    using var nfcReader = new Pn532(spiDevice, 8, null, true, false);
 
     // Removed: nfcReader.Wakeup(); as this method doesn't exist in Iot.Device.Pn532.Pn532
 
