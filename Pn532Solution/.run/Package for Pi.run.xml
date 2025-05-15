@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Package for Pi" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish configuration="Release" platform="Any CPU" runtime="linux-arm64" self_contained="true" target_folder="$PROJECT_DIR$/Pn532Reader/bin/Release/net9.0/linux-arm64/publish" target_framework="net9.0" trim_unused_assemblies="true" uuid_high="-6316471629717812133" uuid_low="-7863006501454421482" />
+    <method v="2" />
+  </configuration>
+</component>
