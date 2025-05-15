@@ -13,3 +13,10 @@
     ```bash
     sudo ./Pn532Reader
     ```
+
+## Builds
+
+Find them here, I'll just manually copy for now, so I can test on my Raspberry Pi
+
+https://drive.google.com/drive/folders/1u1YBYCpNvd-YixzTHfKHhJYKswQ00RuY?usp=drive_link
+
